@@ -9,6 +9,7 @@ def check_prime_number(num)
     end
     n += 1
  end
+ 
  if ( factors.size > 2)
     return false
  elsif num > 0
