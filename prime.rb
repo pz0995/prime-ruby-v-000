@@ -15,5 +15,6 @@ def check_prime_number(num)
     return true
  end
 end
+end
 
 check_prime_number(num)
